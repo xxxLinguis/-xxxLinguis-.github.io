@@ -5,4 +5,4 @@
 # 2019/5/24
 利用hexo搭建blog
 
-用了jekyII的主题模板desu
+用了jekyll的主题模板desu
